@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-S3-WROOM-1-N8R2
+D WiFi Modules - 802.11 (Engineering Samples Only) SMD Module, ESP32-S3R2, 2 MB PSRAM, 8 MB SPI Flash, PCB Antenna ,,
+K
+F https://www.mouser.com/catalog/specsheets/Espressif_ESP32_S3_WROOM_1_1U_Preliminary.pdf
+$ENDCMP
+#
+#End Doc Library

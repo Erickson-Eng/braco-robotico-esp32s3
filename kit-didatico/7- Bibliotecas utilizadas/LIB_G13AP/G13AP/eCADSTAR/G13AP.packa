@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "G13AP"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-08-12-11:22:31)
+    (mountForm default
+        (footprintRef "G13AP")
+        (spec "System")
+    )
+)

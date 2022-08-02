@@ -1,0 +1,19 @@
+.G13AP :1 ;Toggle Switches ON-OFF-ON SPDT
+G13AP
+*STM S
+*NGS
+*PNM 1=4 2=5 3=6 4=MH1 5=MH2
+*PLB 1="NO" 2="COM" 3="NC" 4="MH1" 5="MH2"
+*MXP 5
+*DFN G13AP
+~!Manufacturer_Name (NKK Switches)
+~!Manufacturer_Part_Number (G13AP)
+~!Mouser Part Number (633-G13AP)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=633-G13AP)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.nkkswitches.com/pdf/Gtoggles.pdf)
+~!Height (10.8mm)
+~!3D_Model (G13AP)
+G13AP
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

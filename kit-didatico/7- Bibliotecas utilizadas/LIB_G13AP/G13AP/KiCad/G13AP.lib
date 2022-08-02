@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model G13AP
+#/638766/858236/2.49/5/4/Switch
+DEF G13AP S 0 30 Y Y 1 F N
+F0 "S" 850 300 50 H V L CNN
+F1 "G13AP" 850 200 50 H V L CNN
+F2 "G13AP" 850 100 50 H I L CNN
+F3 "https://www.nkkswitches.com/pdf/Gtoggles.pdf" 850 0 50 H I L CNN
+F4 "Toggle Switches ON-OFF-ON SPDT" 850 -100 50 H I L CNN "Description"
+F5 "10.8" 850 -200 50 H I L CNN "Height"
+F6 "NKK Switches" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "G13AP" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "633-G13AP" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=633-G13AP" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X NO 4 0 0 200 R 50 50 0 0 P
+X COM 5 0 -100 200 R 50 50 0 0 P
+X NC 6 0 -200 200 R 50 50 0 0 N
+X MH1 MH1 1000 0 200 L 50 50 0 0 P
+X MH2 MH2 1000 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

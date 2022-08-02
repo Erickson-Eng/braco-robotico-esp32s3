@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G13AP
+D Toggle Switches ON-OFF-ON SPDT
+K
+F https://www.nkkswitches.com/pdf/Gtoggles.pdf
+$ENDCMP
+#
+#End Doc Library
