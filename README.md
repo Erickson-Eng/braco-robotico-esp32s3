@@ -16,35 +16,33 @@ Projeto de desenvolvimento de braço róbotico realizado no fusion 360 no qual c
 
 ## Braço robótico
 
-![Braco-robotico](modelos_3d\componentes-3d\montagem-braco-3d.png)
+![Braco-robotico](https://raw.githubusercontent.com/Erickson-Eng/braco-robotico-esp32s3/main/modelos_3d/componentes-3d/montagem-braco-3d.png)
 
 Componentes para construção do braço róbotico.
 
 ### Base do braço
 
-![Base do braço](modelos_3d\componentes-3d\base-braco-robotico.png)
+![Base do braço](https://raw.githubusercontent.com/Erickson-Eng/braco-robotico-esp32s3/main/modelos_3d/componentes-3d/base-braco-robotico.png)
 
 ### Tampa de conexão entre base e haste
 
-![Tampa para base](modelos_3d\componentes-3d\tampa-base-conectora.png)
+![Tampa para base](https://raw.githubusercontent.com/Erickson-Eng/braco-robotico-esp32s3/main/modelos_3d/componentes-3d/tampa-base-conectora.png)
 
 ### Haste de conexão com a tampa
 
-![Haste-conectora-com-tampa](modelos_3d\componentes-3d\haste-conectora3d.png)
+![Haste-conectora-com-tampa](https://raw.githubusercontent.com/Erickson-Eng/braco-robotico-esp32s3/main/modelos_3d/componentes-3d/haste-conectora3d.png)
 
 ### Engrenagem conectora com haste
 
-![Engrenagem](modelos_3d\componentes-3d\engrenagem-conectora-braco.png)
+![Engrenagem](https://raw.githubusercontent.com/Erickson-Eng/braco-robotico-esp32s3/main/modelos_3d/componentes-3d/engrenagem-conectora-braco.png)
 
 ### Haste de conexão com a lâmina
 
-![Conecotora-lamina](modelos_3d\componentes-3d\haste-conectora-lamina.png)
+![Conecotora-lamina](https://raw.githubusercontent.com/Erickson-Eng/braco-robotico-esp32s3/main/modelos_3d/componentes-3d/haste-conectora-lamina.png)
 
 ### Lista de materias
 
 Nome | Referência | Tipo
 -----|------------|--------
-Alloy Steel Low-Profile Socket Head Screw | 93070A107 | Parafuso
-Phillips Flat Head Screws for Wood | 90031A410 | Parafuso
 Stepper Motor | 6627T54 | Motor
 Precision Knife Blades | 38995A84_Trade No. 28 | Lâmina
