@@ -2,6 +2,12 @@
 
 Projeto de desenvolvimento de braço róbotico realizado no fusion 360 no qual consiste em criar um braço com uma lâmina acoplada capaz de realizar a manutenção da lavoura fazendo a retirada de fungos e ou também realizar a retirada de algumas frutas como por exemplo a uva.
 
+## Diretorios
+
+- [Arquivos 3D](https://github.com/Erickson-Eng/braco-robotico-esp32s3/tree/main/modelos_3d/componentes-3d)
+- [Arquivos F3D](https://github.com/Erickson-Eng/braco-robotico-esp32s3/tree/main/modelos_3d/componentes-f3d)
+- [Arquivos STL](https://github.com/Erickson-Eng/braco-robotico-esp32s3/tree/main/modelos_3d/componentes-stl)
+
 ## Grupo 7
 
 ### Alunos
